@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap");
+
+body {
+  font-family: "Ubuntu", sans-serif !important;
+  background-color: #eee8e4 !important;
+}
+.contact-img {
+  height: 186px;
+  width: 186px;
+  border-radius: 50%;
+}
+.CL{
+  height: 167px;
+  width: 167px;
+  border-radius: 50%; 
+}
